@@ -9,3 +9,9 @@
 5. mkdir s3 
 6. dvc remote add -d myremote s3
 7. dvc add data
+
+8. dvc commit and push
+9. git commit and push
+
+10. make data changes
+11. dvc commit and push
