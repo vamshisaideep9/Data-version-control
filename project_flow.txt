@@ -1,2 +1,11 @@
 1. create git repo
 2. Create code.py and add code to it. 
+
+
+3. git add and push
+
+4. dvc init
+
+5. mkdir s3 
+6. dvc remote add -d myremote s3
+7. dvc add data
